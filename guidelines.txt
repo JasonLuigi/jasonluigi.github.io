@@ -1,0 +1,29 @@
+1. What is your website about? Do you like dogs, New York, or Pac-Man?
+
+	My website will be about the video game Skyrim. 
+
+2. What information are you presenting on the subject? Write a title and a few paragraphs and 
+think of an image you'd like to show on your page.
+
+	I will be giving a basic introduction about the game, and explaining what kind of person will 
+be interested in this type of game.
+
+title: Introduction To The Elder Scrolls 5: Skyrim
+
+Paragraph 1 - Game Details:
+Skyrim is an open-world role-playing game focusing on free form gameplay released to the ps3, xbox 360, and PC on November 11th, 2011. 
+It received great reviews on release, and has been given multiple enhancements over the years including 3 DLC, a release including the base game and DLC, and a remaster for the PS4, Xbox One and PC.
+The setting combines pre-medieval real-world elements, such as a powerful Roman-like Empire, with high fantasy medieval themes, including limited technology, widespread magic use, and the existence of many mythological creatures in the fantasy continent of Tamriel.
+
+Paragraph 2 - Who is it for:
+
+Skyrim, and The Elder Scrolls series in general, is a great game for people who have an interest in trying a digital format of pen-and-paper role-playing games such as Dungeons & Dragons.
+If you enjoy having control of things like fantasy races such as elves, orcs, humanoids, and anthropomorphic animals, and being put into a world where your actions can give different outcomes, you may find an interest in this game.
+Skyrim is also filled with lore and information about the fictional world, bringing video creators and bloggers looking to figure out widespread mysteries and information to new gamers or people with an interest in the game.
+
+3. What does your website look like, in simple high-level terms? What's the background color? 
+What kind of font is appropriate: formal, cartoony, bold and loud, subtle?
+
+My website will be a single page site with a blog/informational aspect to it.
+I will be using a sans-serif easy-to-read font such as Ariel or Helvetica, as the page will be focusing on the reading of paragraphs and I want to limit eyestrain.
+The background color will be a dark grey with a white font, giving a dark theme. The dark grey will be #212121.
